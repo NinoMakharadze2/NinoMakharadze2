@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nino 👋
 
-<!--
-**NinoMakharadze2/NinoMakharadze2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Financial Analyst
 
-Here are some ideas to get you started:
+I am a finance professional with experience in financial reporting, budgeting, business analysis, and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am developing my skills in data analytics with a focus on SQL, Microsoft Excel, and Power BI.
+
+## Skills
+
+📊 Data Analysis:
+- SQL
+- Microsoft Excel (Advanced)
+- Power BI
+- Data Visualization
+- Power Query
+
+💼 Finance:
+- Financial Reporting
+- Budgeting
+- Forecasting
+- KPI Analysis
+- Business Analysis
+
+## Projects
+
+🔹 SQL Data Analysis Projects  
+🔹 Excel Dashboards  
+🔹 Power BI Business Reports  
+🔹 Financial Analysis Projects  
+
+## Connect with me
+
+💼 LinkedIn: https://www.linkedin.com/in/nino-makharadze-a4a163284/
