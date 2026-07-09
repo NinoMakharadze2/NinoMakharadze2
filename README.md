@@ -1,56 +1,34 @@
-# Excel Sales Dashboard
+# Hi, I'm Nino 👋
 
-## Project Overview
-This project is an interactive Excel Sales Dashboard created to analyze sales performance, revenue, customer behavior, and marketing efficiency.
+## Data Analyst | Financial Analyst
 
-## Dashboard Features
-- KPI Cards
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Sparklines
-- Conditional Formatting
-- Interactive Filters
+I am a finance professional with experience in financial reporting, budgeting, business analysis, and data-driven decision making.
 
-## Key Metrics
-- Total Sales
-- Net Revenue
-- Expected Revenue
-- Refund Amount
-- Discount Amount
-- Bank Commission
-- Income Tax
-- Customer Count
+Currently, I am developing my skills in data analytics with a focus on SQL, Microsoft Excel, and Power BI.
 
-## Dataset
-The dataset includes:
-- Sales ID
-- Order Date
-- Payment Date
-- Customer Type
-- Gender
-- City
-- Course
-- Category
-- Payment Status
-- Payment Method
-- Marketing Channel
-- Ad Spend
-- Revenue Metrics
+## Skills
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+📊 Data Analysis:
+- SQL
+- Microsoft Excel (Advanced)
+- Power BI
+- Data Visualization
 - Power Query
-- Formulas
-- Slicers
-- Conditional Formatting
 
-## Dashboard Preview
-<img width="722" height="615" alt="image" src="https://github.com/user-attachments/assets/23278312-9ffc-42c8-add9-97e9ad5418d0" />
+💼 Finance:
+- Financial Reporting
+- Budgeting
+- Forecasting
+- KPI Analysis
+- Business Analysis
 
+## Projects
 
-## Author
+🔹 SQL Data Analysis Projects  
+🔹 Excel Dashboards  
+🔹 Power BI Business Reports  
+🔹 Financial Analysis Projects  
 
-**Nino Makharadze**
+## Connect with me
+
+💼 LinkedIn:https://www.linkedin.com/in/nino-makharadze-a4a163284/
