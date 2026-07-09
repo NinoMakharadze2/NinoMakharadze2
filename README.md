@@ -48,8 +48,8 @@ The dataset includes:
 - Conditional Formatting
 
 ## Dashboard Preview
+<img width="722" height="615" alt="image" src="https://github.com/user-attachments/assets/23278312-9ffc-42c8-add9-97e9ad5418d0" />
 
-(Add a screenshot here)
 
 ## Author
 
